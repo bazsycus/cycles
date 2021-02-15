@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\bin\Debug\03_Ciklusok.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\bin\Debug\03_Ciklusok.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\bin\Debug\03_Ciklusok.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\03_Ciklusok.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\_03_Ciklusok.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\_03_Ciklusok.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\03_Ciklusok.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\03_Ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\03_Ciklusok.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\03_Ciklusok\03_Ciklusok\obj\Debug\03_Ciklusok.pdb
